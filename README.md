@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/vivek-bhattacharya-9a661528a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:vivekbhattacharya01@gmail.com">
+  <a href="/cdn-cgi/l/email-protection#42342b342729202a23363623212a23303b23727302252f232b2e6c212d2f">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=vivekbhattacharya01-gif&style=for-the-badge&color=blueviolet" />
@@ -24,7 +24,7 @@
 - ⚡ Core stack: **React.js · Node.js · JavaScript · Tailwind CSS**
 - 🏆 Participant at **Smart India Hackathon (SIH)**
 - 🌱 Currently leveling up in **full-stack MERN development** and **TypeScript**
-- 📫 Reach me at: **vivekbhattacharya01@gmail.com**
+- 📫 Reach me at: **<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="5d2b342b38363f353c29293c3e353c2f243c6d6c1d3a303c3431733e3230">[email&#160;protected]</a>**
 
 ---
 
@@ -91,8 +91,6 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vivekbhattacharya01-gif&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160"/>
   &nbsp;
@@ -110,10 +108,3 @@
 - 🥇 **Smart India Hackathon (SIH)** — Built and deployed solution under pressure
 - 🚀 **Deployed multiple portfolio-grade projects** — Real-world web apps live in production
 - 📚 **Continuous learner** — Self-driven through docs, projects, and open source
-
----
-
-<p align="center">
-  <i>"The best way to learn is to build. Then build again."</i><br/><br/>
-  ⭐ <b>If you find my work helpful, drop a star — it keeps me motivated!</b>
-</p>
