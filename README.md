@@ -92,8 +92,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivekbhattacharya01-gif&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekbhattacharya01-gif&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vivekbhattacharya01-gif&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800 height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekbhattacharya01-gif&layout=compact&theme=tokyonight&hide_border=true &cache_seconds=1800" height="160"/>
 </p>
 
 <p align="center">
