@@ -22,11 +22,11 @@
 
 - 🎓 Pursuing **B.Tech in Computer Science** at RKGIT, Ghaziabad (2023–Present)
 - 💻 Passionate about building **production-ready web apps** with clean UI and smooth UX
-- ⚡ Core stack: **React.js · Node.js · JavaScript · Tailwind CSS**
+- ⚡ Core stack: **React.js · Next.js · TypeScript · Tailwind CSS**
 - 🏆 Participant at **Smart India Hackathon (SIH)**
 - 🔐 **Web Exploit Hunting & Bug Bounty Intern** at EduSkills (AICTE) — Oct–Dec 2025
 - 🤖 **Generative AI Certified** — NASSCOM Skill Development Program, Mar 2026
-- 🌱 Currently leveling up in **full-stack MERN development** and **TypeScript**
+- 🌱 Currently leveling up in **full-stack MERN development** and **AI integration**
 - 📫 Reach me at: **vivekbhattacharya01@gmail.com**
 
 ---
@@ -55,8 +55,10 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-**Tools & Platforms**
+**AI & Tools**
 
+![Groq](https://img.shields.io/badge/Groq_API-F55036?style=flat-square&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
@@ -66,12 +68,24 @@
 
 ## 🌟 Featured Projects
 
+### 🚇 [MetroSense](https://github.com/vivekbhattacharya01-gif/metrosense) — AI-Powered Delhi Metro Assistant
+> Conceptualized, designed in Figma, and built a full-stack Delhi Metro companion app from scratch
+- 🤖 Natural language AI trip planning — ask "Dwarka to Connaught Place" and get route, fare, and smart tips instantly
+- 📡 Real-time train tracker with crowd level predictions and delay forecasting
+- 🗺️ Route finder, fare calculator, travel alarm, station info — 8 fully functional features
+- 🌗 Dark/Light mode · Hindi/English language toggle · Mobile-first design
+- ⚡ Powered by **Groq LLaMA 3** API for fast AI responses
+- **Stack:** Next.js · TypeScript · Tailwind CSS · shadcn/ui · Groq API
+- 🔗 **[Live Demo](#)** · **[Figma Design](https://www.figma.com/design/F2XJGp11Tjq8nGpPRZyUXr/Delhi-Metro-Assistant-Prototype)**
+
+---
+
 ### 🖤 [Manga Portfolio](https://github.com/vivekbhattacharya01-gif/manga-portfolio) — Interactive Manga Experience
 > A developer portfolio built as a Black & White Manga — inspired by Death Note & Berserk
 - 📖 Page flip animations between sections
 - 🎨 Manga panel grid layouts with halftone patterns
 - 🌗 Dark/Light ink-wash theme toggle
-- 🏆 Built with React.js · Next.js · Tailwind CSS · Framer Motion
+- **Stack:** React.js · Next.js · Tailwind CSS · Framer Motion
 - 🔗 **[Live Demo](https://manga-portfolio.netlify.app)**
 
 ---
@@ -96,16 +110,6 @@
 
 ---
 
-### 🔳 [CodeWave](https://github.com/vivekbhattacharya01-gif/CodeWave) — QR Code Generator
-> Simple, accessible QR code generator for any URL
-- ✅ Cross-device accessible interface
-- 🧪 Tested by 50+ users with 30% improvement in satisfaction
-- 🎨 Clean and intuitive UI/UX design
-- **Stack:** JavaScript · HTML5 · CSS3 · API Integration
-- 🔗 **[Live Demo](https://vivek-codewave.netlify.app/)**
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -124,6 +128,7 @@
 - 🥇 **Smart India Hackathon (SIH)** — Built and deployed solution under pressure
 - 🔐 **Web Exploit Hunting & Bug Bounty** — EduSkills (AICTE) Internship, Oct–Dec 2025
 - 🤖 **Generative AI Certified** — NASSCOM Skill Development Program, Mar 2026
+- 🚇 **Built MetroSense** — Original AI-powered metro app, conceptualized and shipped independently
 - 🚀 **Deployed multiple portfolio-grade projects** — Real-world web apps live in production
 - 📚 **Continuous learner** — Self-driven through docs, projects, and open source
 
