@@ -68,7 +68,7 @@
 
 ## 🌟 Featured Projects
 
-### 🚇 [MetroSense](https://github.com/vivekbhattacharya01-gif/metrosense) — AI-Powered Delhi Metro Assistant
+### 🚇 [MetroSense](https://github.com/vivekbhattacharya01-gif/Metro-sense) — AI-Powered Delhi Metro Assistant
 > Conceptualized, designed in Figma, and built a full-stack Delhi Metro companion app from scratch
 - 🤖 Natural language AI trip planning — ask "Dwarka to Connaught Place" and get route, fare, and smart tips instantly
 - 📡 Real-time train tracker with crowd level predictions and delay forecasting
