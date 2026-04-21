@@ -76,7 +76,7 @@
 - 🌗 Dark/Light mode · Hindi/English language toggle · Mobile-first design
 - ⚡ Powered by **Groq LLaMA 3** API for fast AI responses
 - **Stack:** Next.js · TypeScript · Tailwind CSS · shadcn/ui · Groq API
-- 🔗 **[Live Demo](#)** · **[Figma Design](https://www.figma.com/design/F2XJGp11Tjq8nGpPRZyUXr/Delhi-Metro-Assistant-Prototype)**
+- 🔗 **[Live Demo](https://metro-sense.netlify.app/)** · **[Figma Design](https://www.figma.com/design/F2XJGp11Tjq8nGpPRZyUXr/Delhi-Metro-Assistant-Prototype)**
 
 ---
 
@@ -106,7 +106,7 @@
 - ⚡ 20% faster page load via optimized rendering
 - 📊 Clean, responsive UI built with Flexbox & media queries
 - **Stack:** JavaScript · HTML5 · CSS3 · REST API
-- 🔗 **[Live Demo](https://vivekbhattacharya01-gif.github.io/CoinPulse/)**
+- 🔗 **[Live Demo](https://vivek-coinpulse.netlify.app/)**
 
 ---
 
