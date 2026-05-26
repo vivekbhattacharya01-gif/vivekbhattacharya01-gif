@@ -22,7 +22,7 @@
 
 - 🎓 Pursuing **B.Tech in Computer Science** at RKGIT, Ghaziabad (2023–Present)
 - 💻 Passionate about building **production-ready web apps** with clean UI and smooth UX
-- ⚡ Core stack: **React.js · Next.js · TypeScript · Tailwind CSS**
+- ⚡ Core stack: **React.js · Next.js · TypeScript · Tailwind CSS · Node.js · AI APIs**
 - 🏆 Participant at **Smart India Hackathon (SIH)**
 - 🔐 **Web Exploit Hunting & Bug Bounty Intern** at EduSkills (AICTE) — Oct–Dec 2025
 - 🤖 **Generative AI Certified** — NASSCOM Skill Development Program, Mar 2026
