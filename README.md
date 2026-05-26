@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋 I'm Vivek Bhattacharya</h1>
 <p align="center">
-  <b>B.Tech CS Student · MERN Stack Developer · UI/UX Enthusiast</b><br/>
+  <b>B.Tech CSE Student | MERN-Stack Developer | AI-Powered Web Apps</b><br/>
   <i>Building modern web experiences — one component at a time.</i>
 </p>
 <p align="center">
