@@ -1,44 +1,29 @@
-<h1 align="center">Hi 👋, I'm Vivek Bhattacharya</h1>
-
-<h3 align="center">
-Computer Science Undergraduate • Full-Stack Developer • AI Enthusiast
-</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Vivek+Bhattacharya+%F0%9F%91%8B;Computer+Science+Undergraduate;Full-Stack+Developer;Building+AI-Powered+Web+Applications;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-I enjoy building modern web applications that combine intuitive user experiences with AI-powered functionality.
+  <img src="https://komarev.com/ghpvc/?username=vivekbhattacharya01-gif&style=for-the-badge&color=58A6FF" />
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/vivek-bhattacharya-9a661528a">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:vivekbhattacharya01@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://manga-portfolio.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=vivekbhattacharya01-gif&style=for-the-badge&color=blueviolet"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
 </p>
 
 ---
 
-# 🚀 About Me
+# 💫 About Me
 
-I'm a Computer Science undergraduate passionate about designing and building scalable, user-focused web applications.
+I'm a **Computer Science undergraduate** passionate about building modern web applications that combine intuitive user experiences with AI-powered functionality.
 
-My interests span **Frontend Development, Full-Stack Engineering, and AI-powered applications**, with a focus on creating products that are both visually engaging and technically robust.
+I enjoy transforming ideas into production-ready products using **React, Next.js, Tailwind CSS, Node.js**, and modern AI tools.
 
-Currently exploring:
+### 🚀 Currently
 
-- 🚀 MERN Stack Development
-- 🤖 AI Integration & Conversational AI
-- ⚡ React, Next.js & TypeScript
-- 🧠 Data Structures & Algorithms (Python)
-- ☁️ Modern Software Engineering Practices
+- 🌱 Learning Full-Stack MERN Development
+- 🤖 Building AI-powered web applications
+- 🧠 Practicing Data Structures & Algorithms (Python)
+- 💡 Exploring Conversational AI & Agentic Workflows
 
 ---
 
@@ -46,138 +31,176 @@ Currently exploring:
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<p>
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,html,css"/>
+
+</p>
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+<p>
 
-### Backend & Database
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+</p>
 
-### AI & Tools
+### Backend
 
-![Groq](https://img.shields.io/badge/Groq_API-F55036?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
 
-# 🌟 Featured Projects
+</p>
 
-## 🚇 MetroSense — AI-Powered Delhi Metro Assistant
+### Tools
 
-An AI-powered metro companion featuring natural language trip planning, intelligent route guidance, fare estimation, real-time travel insights, bilingual support, and a modern responsive interface.
+<p>
 
-**Stack:** Next.js • TypeScript • Tailwind CSS • shadcn/ui • Groq API
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,netlify"/>
 
-🔗 Repository: https://github.com/vivekbhattacharya01-gif/Metro-sense
-
-🌐 Live Demo: https://metro-sense.netlify.app/
+</p>
 
 ---
 
-## ✨ ShineUp — AI-Powered Automotive Marketplace
+# 🚀 Featured Projects
 
-A premium marketplace that combines AI-driven vehicle health analysis with a seamless booking experience, helping users discover verified detailing professionals based on their vehicle's condition.
+<table>
 
-**Stack:** React • Tailwind CSS • Motion • Radix UI • React Router • Vite
+<tr>
 
-🔗 Repository: https://github.com/vivekbhattacharya01-gif/ShineUp
+<td width="50%">
 
-🌐 Live Demo: https://shine-up-gamma.vercel.app/
+## 🚇 MetroSense
+
+AI-powered Delhi Metro Assistant with natural language trip planning, smart routing, fare estimation, travel alerts, bilingual support and real-time travel utilities.
+
+**Tech**
+
+Next.js • TypeScript • Tailwind CSS • Groq API
+
+🔗 https://github.com/vivekbhattacharya01-gif/Metro-sense
+
+🌐 https://metro-sense.netlify.app/
+
+</td>
+
+<td width="50%">
+
+## ✨ ShineUp
+
+Premium AI-powered automotive marketplace with vehicle health analysis, verified detailers and complete booking workflow.
+
+**Tech**
+
+React • Tailwind CSS • Motion • Radix UI
+
+🔗 https://github.com/vivekbhattacharya01-gif/ShineUp
+
+🌐 https://shine-up-gamma.vercel.app/
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🏥 ClinicMate
+
+Conversational AI Healthcare Assistant built on TARS with appointment workflows, knowledge base integration and Salesforce lead workflow design.
+
+**Tech**
+
+TARS • Prompt Engineering • Workflow Design
+
+🔗 https://github.com/vivekbhattacharya01-gif/ClinicMate
+
+🌐 https://neoagent.hellotars.com/chat/fcNwzt5z
+
+</td>
+
+<td width="50%">
+
+## 📖 Manga Portfolio
+
+Interactive manga-inspired developer portfolio with immersive page transitions and modern responsive UI.
+
+**Tech**
+
+Next.js • React • Tailwind CSS • Framer Motion
+
+🔗 https://github.com/vivekbhattacharya01-gif/manga-portfolio
+
+🌐 https://manga-portfolio.netlify.app/
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2">
+
+## 🤖 Agency AI
+
+Modern digital agency website featuring responsive layouts, reusable React components, smooth animations, dark mode and a functional contact form.
+
+**Tech**
+
+React • Tailwind CSS • Motion
+
+🔗 https://github.com/vivekbhattacharya01-gif/agency-ai
+
+🌐 https://agency-ai-758.netlify.app/
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-## 🏥 ClinicMate — AI Healthcare Assistant
+# 🏆 Certifications
 
-A conversational AI healthcare assistant built on the TARS AI Agent Platform with intelligent patient workflows, appointment booking, knowledge base integration, and Salesforce lead workflow design.
-
-**Stack:** TARS AI Agent Platform • Prompt Engineering • Workflow Design
-
-🔗 Repository: https://github.com/vivekbhattacharya01-gif/ClinicMate
-
-🌐 Live Demo: https://neoagent.hellotars.com/chat/fcNwzt5z
-
----
-
-## 📖 Manga Portfolio — Interactive Developer Portfolio
-
-A unique manga-inspired developer portfolio featuring immersive page transitions, custom layouts, smooth animations, and responsive design.
-
-**Stack:** Next.js • React • Tailwind CSS • Framer Motion
-
-🔗 Repository: https://github.com/vivekbhattacharya01-gif/manga-portfolio
-
-🌐 Live Demo: https://manga-portfolio.netlify.app/
-
----
-
-## 🤖 Agency AI — Modern Digital Agency Website
-
-A responsive digital agency website built with reusable React components, smooth animations, dark mode, and a fully functional contact experience.
-
-**Stack:** React • Tailwind CSS • Motion • Web3Forms
-
-🔗 Repository: https://github.com/vivekbhattacharya01-gif/agency-ai
-
-🌐 Live Demo: https://agency-ai-758.netlify.app/
-
----
-
-# 🏆 Certifications & Experience
-
-- 🏆 Smart India Hackathon (SIH) Participant
-- 🔐 AICTE EduSkills – Web Exploit Hunting & Bug Bounty Internship
+- 🏆 Smart India Hackathon Participant
 - 🤖 NASSCOM Generative AI Certification
-- 💻 Built multiple production-ready web applications
-- 🚀 Passionate about AI-powered product development
+- 🔐 AICTE EduSkills – Web Exploit Hunting & Bug Bounty Internship
+- 🚀 Built multiple production-ready AI & Frontend applications
 
 ---
 
-# 🌱 Currently Learning
-
-- Advanced MERN Stack
-- AI Integration & Agentic Workflows
-- Data Structures & Algorithms (Python)
-- Backend Development with Node.js & Express
-- System Design Fundamentals
-
----
-
-# 📊 GitHub Statistics
+# 📈 GitHub Statistics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vivekbhattacharya01-gif&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vivekbhattacharya01-gif&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekbhattacharya01-gif&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekbhattacharya01-gif&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekbhattacharya01-gif&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=vivekbhattacharya01-gif&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekbhattacharya01-gif&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekbhattacharya01-gif&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/vivekbhattacharya01-gif/vivekbhattacharya01-gif/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -185,18 +208,30 @@ A responsive digital agency website built with reusable React components, smooth
 
 # 🤝 Let's Connect
 
-I'm always open to collaborating on exciting projects, open-source contributions, and software engineering opportunities.
+<p align="center">
 
-📧 **Email:** vivekbhattacharya01@gmail.com
+<a href="https://www.linkedin.com/in/vivek-bhattacharya-9a661528a">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-💼 **LinkedIn:** https://www.linkedin.com/in/vivek-bhattacharya-9a661528a
+<a href="mailto:vivekbhattacharya01@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-🌐 **Portfolio:** https://manga-portfolio.netlify.app
+<a href="https://manga-portfolio.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://github.com/vivekbhattacharya01-gif">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 
 ---
 
 <p align="center">
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+### ⭐ "Building impactful products, one commit at a time."
 
 </p>
