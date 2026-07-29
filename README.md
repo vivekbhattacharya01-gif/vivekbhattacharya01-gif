@@ -196,12 +196,10 @@ React • Tailwind CSS • Motion
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/vivekbhattacharya01-gif/vivekbhattacharya01-gif/output/github-contribution-grid-snake-dark.svg"/>
-
+  <img src="https://raw.githubusercontent.com/vivekbhattacharya01-gif/vivekbhattacharya01-gif/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
