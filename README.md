@@ -30,37 +30,31 @@ I enjoy transforming ideas into production-ready products using **React, Next.js
 # 🛠 Tech Stack
 
 ### Languages
-
 <p>
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css"/>
-
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css" />
 </p>
 
 ### Frontend
-
 <p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
-
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" />
 </p>
 
 ### Backend
-
 <p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
-
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-### Tools
-
+### Tools & Platforms
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,netlify"/>
-
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify" />
 </p>
 
+### AI & APIs
+- OpenAI API
+- Claude AI
+- REST APIs
+- AI Integration
+- Generative AI
 ---
 
 # 🚀 Featured Projects
